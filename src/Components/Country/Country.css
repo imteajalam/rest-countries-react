@@ -4,3 +4,7 @@
   padding: 15px;
   margin: 15px;
 }
+.visited {
+  background-color: gainsboro;
+  color: black;
+}
